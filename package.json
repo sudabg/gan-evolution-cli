@@ -1,0 +1,17 @@
+{
+  "name": "gan-evolution-v2",
+  "version": "1.0.0",
+  "description": "GAN Evolution Engine v2.0 - 真正的自主进化引擎",
+  "main": "engine-v2-real.js",
+  "type": "module",
+  "scripts": {
+    "start": "node engine-v2-real.js",
+    "test": "bash test-integration.sh"
+  },
+  "keywords": ["gan", "evolution", "ai-agent", "autonomous"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "zx": "^8.8.2"
+  }
+}
